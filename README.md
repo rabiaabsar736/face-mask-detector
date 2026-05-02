@@ -25,6 +25,9 @@ https://huggingface.co/spaces/RabiaAbsar/face-mask-detector
 - Overfitting prevention using Dropout
 - Model deployment using Gradio
 
+## 📷 Screenshot
+![App Screenshot]
+
 ## 📂 Files
 - app.py
 - requirements.txt
