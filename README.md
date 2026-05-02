@@ -26,7 +26,7 @@ https://huggingface.co/spaces/RabiaAbsar/face-mask-detector
 - Model deployment using Gradio
 
 ## 📷 Screenshot
-![App Screenshot]
+![App Screenshot](face_mask_screenshot.png)
 
 ## 📂 Files
 - app.py
