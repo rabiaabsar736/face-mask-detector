@@ -8,6 +8,9 @@ This project is a Deep Learning web app that detects whether a person is wearing
 - Hugging Face Spaces
 - Kaggle API
 
+  ## ⚠️ Note
+The trained model file is hosted on Hugging Face due to GitHub file size limits.
+
 ## 🌐 Live Demo
 https://huggingface.co/spaces/RabiaAbsar/face-mask-detector
 
